@@ -1,0 +1,14 @@
+PUBLICAÇÃO NA HOSTINGER
+1. Crie a pasta public_html/coagril2027 no Gerenciador de Arquivos.
+2. Envie o ZIP e extraia seu conteúdo nessa pasta.
+3. Confira se index.html e proposta.html estão diretamente em coagril2027 (sem pasta intermediária).
+4. Acesse https://SEU-DOMINIO/coagril2027/
+
+HERO EM VÍDEO
+Coloque o arquivo hero.mp4 na pasta assets/ (H.264, MP4, preferencialmente comprimido).
+O hero reproduz o vídeo sem áudio automaticamente, por exigência comum dos navegadores.
+Para locução audível, recomendamos botão de reprodução com áudio, a implementar após receber o vídeo.
+
+ATENÇÃO
+A segunda página contém campos 'A definir'. Substitua-os antes de compartilhar.
+O site inclui meta noindex, mas isso NÃO protege informações confidenciais. Para publicar valores, use proteção por senha no servidor.
